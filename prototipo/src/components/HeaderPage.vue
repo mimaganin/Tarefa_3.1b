@@ -27,6 +27,15 @@ export default {
 </script>
 
 <style scoped>
+/* Em ecrãs pequenos (telemóvel) o título do tema não cabe na largura,
+   por exemplo "PATROCINADORES" a 375px. Reduzimos o tamanho da letra. */
+@media (max-width: 575.98px) {
+  h2.page-section-heading {
+    font-size: 1.6rem;
+    line-height: 1.3;
+  }
+}
+
 .divider-custom {
   margin: 1.25rem 0 1.5rem;
   width: 100%;
