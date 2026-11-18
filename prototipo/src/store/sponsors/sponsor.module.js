@@ -19,7 +19,8 @@ const state = {
       _id: "s1",
       name: "Patas & Companhia, Lda.",
       type: "empresa",
-      logo: "https://ui-avatars.com/api/?name=Patas+Companhia&background=1abc9c&color=fff",
+      logo:
+        "https://ui-avatars.com/api/?name=Patas+Companhia&background=1abc9c&color=fff",
       website: "https://www.patasecompanhia.pt",
       email: "geral@patasecompanhia.pt",
       animals: ["cão", "gato"],
@@ -39,7 +40,8 @@ const state = {
       _id: "s3",
       name: "Rações Serra da Estrela, S.A.",
       type: "empresa",
-      logo: "https://ui-avatars.com/api/?name=Serra+Estrela&background=2c3e50&color=fff",
+      logo:
+        "https://ui-avatars.com/api/?name=Serra+Estrela&background=2c3e50&color=fff",
       website: "https://www.racoesserradaestrela.pt",
       email: "info@racoesserradaestrela.pt",
       animals: ["cão", "cavalo", "pardal"],

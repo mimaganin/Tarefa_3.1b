@@ -84,6 +84,23 @@ const routes = [
     name: "addAnimal",
     component: () => import("@/views/animals/AddAnimal.vue")
   },
+  // Patrocinadores: "add" vem antes de ":sponsorId" para não ser
+  // apanhado como se fosse um id.
+  {
+    path: "/admin/sponsors",
+    name: "listSponsors",
+    component: () => import("@/views/sponsors/ListSponsors.vue")
+  },
+  {
+    path: "/admin/sponsors/add",
+    name: "addSponsor",
+    component: () => import("@/views/sponsors/AddSponsor.vue")
+  },
+  {
+    path: "/admin/sponsors/:sponsorId",
+    name: "editSponsor",
+    component: () => import("@/views/sponsors/EditSponsor.vue")
+  },
   {
     path: "/profile",
     name: "profile",
