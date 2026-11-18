@@ -78,23 +78,32 @@
                         params: { sponsorId: sponsor._id }
                       }"
                       tag="button"
+                      :title="'Editar ' + sponsor.name"
+                      :aria-label="'Editar ' + sponsor.name"
                       class="btn btn-outline-success mr-2 mt-2"
                     >
-                      <i class="fas fa-edit"></i> EDITAR
+                      <i class="fas fa-edit" aria-hidden="true"></i>
+                      <span class="d-none d-sm-inline">EDITAR</span>
                     </router-link>
                     <button
                       @click="viewSponsor(sponsor._id)"
                       type="button"
+                      :title="'Ver ' + sponsor.name"
+                      :aria-label="'Ver ' + sponsor.name"
                       class="btn btn-outline-success mr-2 mt-2"
                     >
-                      <i class="fas fa-search"></i> VER
+                      <i class="fas fa-search" aria-hidden="true"></i>
+                      <span class="d-none d-sm-inline">VER</span>
                     </button>
                     <button
                       @click="removeSponsor(sponsor._id)"
                       type="button"
+                      :title="'Remover ' + sponsor.name"
+                      :aria-label="'Remover ' + sponsor.name"
                       class="btn btn-outline-danger mr-2 mt-2"
                     >
-                      <i class="fas fa-trash-alt"></i> REMOVER
+                      <i class="fas fa-trash-alt" aria-hidden="true"></i>
+                      <span class="d-none d-sm-inline">REMOVER</span>
                     </button>
                   </td>
                 </tr>

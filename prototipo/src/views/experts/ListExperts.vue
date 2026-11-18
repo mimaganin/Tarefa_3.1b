@@ -78,23 +78,32 @@
                         params: { expertId: expert._id }
                       }"
                       tag="button"
+                      :title="'Editar ' + expert.name"
+                      :aria-label="'Editar ' + expert.name"
                       class="btn btn-outline-success mr-2 mt-2"
                     >
-                      <i class="fas fa-edit"></i> EDITAR
+                      <i class="fas fa-edit" aria-hidden="true"></i>
+                      <span class="d-none d-sm-inline">EDITAR</span>
                     </router-link>
                     <button
                       @click="viewExpert(expert._id)"
                       type="button"
+                      :title="'Ver ' + expert.name"
+                      :aria-label="'Ver ' + expert.name"
                       class="btn btn-outline-success mr-2 mt-2"
                     >
-                      <i class="fas fa-search"></i> VER
+                      <i class="fas fa-search" aria-hidden="true"></i>
+                      <span class="d-none d-sm-inline">VER</span>
                     </button>
                     <button
                       @click="removeExpert(expert._id)"
                       type="button"
+                      :title="'Remover ' + expert.name"
+                      :aria-label="'Remover ' + expert.name"
                       class="btn btn-outline-danger mr-2 mt-2"
                     >
-                      <i class="fas fa-trash-alt"></i> REMOVER
+                      <i class="fas fa-trash-alt" aria-hidden="true"></i>
+                      <span class="d-none d-sm-inline">REMOVER</span>
                     </button>
                   </td>
                 </tr>
