@@ -101,6 +101,22 @@ const routes = [
     name: "editSponsor",
     component: () => import("@/views/sponsors/EditSponsor.vue")
   },
+  // Especialistas: mesma regra, "add" antes de ":expertId".
+  {
+    path: "/admin/experts",
+    name: "listExperts",
+    component: () => import("@/views/experts/ListExperts.vue")
+  },
+  {
+    path: "/admin/experts/add",
+    name: "addExpert",
+    component: () => import("@/views/experts/AddExpert.vue")
+  },
+  {
+    path: "/admin/experts/:expertId",
+    name: "editExpert",
+    component: () => import("@/views/experts/EditExpert.vue")
+  },
   {
     path: "/profile",
     name: "profile",
