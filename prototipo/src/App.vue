@@ -1,7 +1,9 @@
 <template>
   <b-container fluid>
     <NavBar></NavBar>
-    <router-view />
+    <main>
+      <router-view />
+    </main>
   </b-container>
 </template>
 <script>
