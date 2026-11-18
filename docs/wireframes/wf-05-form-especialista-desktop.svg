@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1406" height="1408" viewBox="0 0 1406 1408">
+<title>WIREFRAME · Formulário de especialista · Desktop · 1366 px</title>
+<rect width="1406" height="1408" fill="#f4f4f4"/>
+<text x="20" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#333">WIREFRAME · Formulário de especialista</text>
+<text x="20" y="54" font-family="Arial, sans-serif" font-size="13" fill="#666">Desktop · 1366 px · Animalec back-office</text>
+<text x="20" y="68" font-family="Arial, sans-serif" font-size="12" fill="#888" font-style="italic">Campos agrupados em fieldsets: identificação, área científica, animais que acompanha e estado.</text>
+<g transform="translate(20,74)">
+<rect width="1366" height="1314" fill="#ffffff" stroke="#bbb"/>
+<svg width="1366" height="1314" viewBox="0 0 1366 1314" overflow="hidden">
+<rect x="0" y="0" width="1366" height="76" rx="0" fill="#d6d6d6" stroke="none" stroke-width="1"/>
+<rect x="80" y="13" width="250" height="50" rx="0" fill="#ececec" stroke="#9a9a9a" stroke-width="1"/>
+<line x1="80" y1="13" x2="330" y2="63" stroke="#9a9a9a" stroke-width="1" stroke-linecap="round"/>
+<line x1="330" y1="13" x2="80" y2="63" stroke="#9a9a9a" stroke-width="1" stroke-linecap="round"/>
+<rect x="170.2" y="27.0" width="69.6" height="20" rx="0" fill="#ececec" stroke="none" stroke-width="1"/>
+<text x="205.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#9a9a9a" text-anchor="middle">LOGÓTIPO</text>
+<text x="1226.8" y="44" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#333333" text-anchor="start">ADMIN</text>
+<text x="1112.8799999999999" y="44" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#6b6b6b" text-anchor="start">CONTACTOS</text>
+<text x="1026.8" y="44" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#6b6b6b" text-anchor="start">QUIZZES</text>
+<text x="943.92" y="44" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#6b6b6b" text-anchor="start">ANIMAIS</text>
+<text x="683.0" y="258" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#333333" text-anchor="middle">ADICIONAR / EDITAR ESPECIALISTA</text>
+<rect x="537.0" y="311" width="112" height="4" rx="2" fill="#9a9a9a" stroke="none" stroke-width="1"/>
+<rect x="717.0" y="311" width="112" height="4" rx="2" fill="#9a9a9a" stroke="none" stroke-width="1"/>
+<rect x="668.0" y="298" width="30" height="30" rx="2" fill="none" stroke="#9a9a9a" stroke-width="1.5"/>
+<rect x="318" y="360" width="730" height="232" rx="5" fill="none" stroke="#bdbdbd" stroke-width="1.2"/>
+<rect x="334" y="346" width="125.99999999999997" height="28" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="342" y="367" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#333333" text-anchor="start">Identificação</text>
+<text x="335" y="409" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#444444" text-anchor="start">Nome *</text>
+<rect x="335" y="424" width="696" height="48" rx="5" fill="#ffffff" stroke="#a8a8a8" stroke-width="1.2"/>
+<text x="351" y="455" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#9a9a9a" text-anchor="start">escreve o nome</text>
+<text x="335" y="505" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#444444" text-anchor="start">Foto (URL)</text>
+<rect x="335" y="520" width="696" height="48" rx="5" fill="#ffffff" stroke="#a8a8a8" stroke-width="1.2"/>
+<text x="351" y="551" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#9a9a9a" text-anchor="start">https://...</text>
+<rect x="318" y="616" width="730" height="328" rx="5" fill="none" stroke="#bdbdbd" stroke-width="1.2"/>
+<rect x="334" y="602" width="149.39999999999998" height="28" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="342" y="623" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#333333" text-anchor="start">Área científica</text>
+<text x="335" y="665" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#444444" text-anchor="start">Especialidade *</text>
+<rect x="335" y="680" width="696" height="48" rx="5" fill="#ffffff" stroke="#a8a8a8" stroke-width="1.2"/>
+<text x="351" y="711" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#9a9a9a" text-anchor="start">-- SELECIONA GRUPO --</text>
+<path d="M1003 700 l6 6 l6 -6" fill="none" stroke="#444444" stroke-width="2"/>
+<text x="335" y="761" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#444444" text-anchor="start">Instituição *</text>
+<rect x="335" y="776" width="696" height="48" rx="5" fill="#ffffff" stroke="#a8a8a8" stroke-width="1.2"/>
+<text x="351" y="807" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#9a9a9a" text-anchor="start">escreve a instituição</text>
+<text x="335" y="857" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#444444" text-anchor="start">Email *</text>
+<rect x="335" y="872" width="696" height="48" rx="5" fill="#ffffff" stroke="#a8a8a8" stroke-width="1.2"/>
+<text x="351" y="903" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#9a9a9a" text-anchor="start">nome@exemplo.pt</text>
+<rect x="318" y="968" width="730" height="80" rx="5" fill="none" stroke="#bdbdbd" stroke-width="1.2"/>
+<rect x="334" y="954" width="244.1999999999999" height="28" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="342" y="975" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#333333" text-anchor="start">Animais que acompanha *</text>
+<rect x="335" y="1008" width="14" height="14" rx="2.5" fill="#fff" stroke="#a8a8a8" stroke-width="1.3"/>
+<text x="355" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#444444" text-anchor="start">cão</text>
+<rect x="395.96" y="1008" width="14" height="14" rx="2.5" fill="#fff" stroke="#a8a8a8" stroke-width="1.3"/>
+<text x="415.96" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#444444" text-anchor="start">gato</text>
+<rect x="461.08" y="1008" width="14" height="14" rx="2.5" fill="#fff" stroke="#a8a8a8" stroke-width="1.3"/>
+<text x="481.08" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#444444" text-anchor="start">pardal</text>
+<rect x="542.84" y="1008" width="14" height="14" rx="2.5" fill="#fff" stroke="#a8a8a8" stroke-width="1.3"/>
+<text x="562.84" y="1020" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#444444" text-anchor="start">cavalo</text>
+<rect x="318" y="1072" width="730" height="80" rx="5" fill="none" stroke="#bdbdbd" stroke-width="1.2"/>
+<rect x="334" y="1058" width="76.4" height="28" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="342" y="1079" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#333333" text-anchor="start">Estado</text>
+<rect x="335" y="1112" width="14" height="14" rx="2.5" fill="#6b6b6b" stroke="#6b6b6b" stroke-width="1.3"/>
+<path d="M338 1119 l3 3 l5 -6" fill="none" stroke="#fff" stroke-width="2"/>
+<text x="355" y="1124" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#444444" text-anchor="start">Especialista ativo</text>
+<rect x="318" y="1176" width="294.19999999999993" height="48" rx="5" fill="none" stroke="#6b6b6b" stroke-width="1.6"/>
+<rect x="332" y="1191.5" width="17.0" height="17.0" rx="2" fill="none" stroke="#6b6b6b" stroke-width="1.5"/>
+<text x="356.0" y="1207.2" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#6b6b6b" text-anchor="start">ADICIONAR / ATUALIZAR</text>
+<rect x="620.1999999999999" y="1176" width="159.79999999999998" height="48" rx="5" fill="none" stroke="#6b6b6b" stroke-width="1.6"/>
+<rect x="634.1999999999999" y="1191.5" width="17.0" height="17.0" rx="2" fill="none" stroke="#6b6b6b" stroke-width="1.5"/>
+<text x="658.1999999999999" y="1207.2" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#6b6b6b" text-anchor="start">CANCELAR</text>
+<text x="318" y="1258" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#9a9a9a" text-anchor="start" font-style="italic">* campo obrigatório · validação HTML5: required, type=&quot;email&quot;, type=&quot;url&quot;.</text>
+<text x="318" y="1278" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#9a9a9a" text-anchor="start" font-style="italic">Pelo menos um animal tem de ser escolhido.</text>
+</svg></g></svg>

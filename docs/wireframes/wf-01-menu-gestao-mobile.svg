@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="415" height="1749" viewBox="0 0 415 1749">
+<title>WIREFRAME · Menu de gestão (Admin) · Mobile · 375 px</title>
+<rect width="415" height="1749" fill="#f4f4f4"/>
+<text x="20" y="30" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#333">WIREFRAME · Menu de gestão (Admin)</text>
+<text x="20" y="50" font-family="Arial, sans-serif" font-size="13" fill="#666">Mobile · 375 px · Animalec back-office</text>
+<g transform="translate(20,74)">
+<rect width="375" height="1655" fill="#ffffff" stroke="#bbb"/>
+<svg width="375" height="1655" viewBox="0 0 375 1655" overflow="hidden">
+<rect x="0" y="0" width="375" height="118" rx="0" fill="#d6d6d6" stroke="none" stroke-width="1"/>
+<rect x="78" y="13" width="250" height="50" rx="0" fill="#ececec" stroke="#9a9a9a" stroke-width="1"/>
+<line x1="78" y1="13" x2="328" y2="63" stroke="#9a9a9a" stroke-width="1" stroke-linecap="round"/>
+<line x1="328" y1="13" x2="78" y2="63" stroke="#9a9a9a" stroke-width="1" stroke-linecap="round"/>
+<rect x="168.2" y="27.0" width="69.6" height="20" rx="0" fill="#ececec" stroke="none" stroke-width="1"/>
+<text x="203.0" y="42.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" fill="#9a9a9a" text-anchor="middle">LOGÓTIPO</text>
+<rect x="32" y="68" width="56" height="40" rx="5" fill="none" stroke="#333333" stroke-width="1.2"/>
+<line x1="46" y1="80" x2="74" y2="80" stroke="#333333" stroke-width="2" stroke-linecap="round"/>
+<line x1="46" y1="88" x2="74" y2="88" stroke="#333333" stroke-width="2" stroke-linecap="round"/>
+<line x1="46" y1="96" x2="74" y2="96" stroke="#333333" stroke-width="2" stroke-linecap="round"/>
+<text x="187.5" y="288" font-family="Arial, Helvetica, sans-serif" font-size="25.6" font-weight="700" fill="#333333" text-anchor="middle">GESTÃO DO</text>
+<text x="187.5" y="321" font-family="Arial, Helvetica, sans-serif" font-size="25.6" font-weight="700" fill="#333333" text-anchor="middle">ANIMALEC</text>
+<rect x="41.5" y="379" width="112" height="4" rx="2" fill="#9a9a9a" stroke="none" stroke-width="1"/>
+<rect x="221.5" y="379" width="112" height="4" rx="2" fill="#9a9a9a" stroke="none" stroke-width="1"/>
+<rect x="172.5" y="366" width="30" height="30" rx="2" fill="none" stroke="#9a9a9a" stroke-width="1.5"/>
+<rect x="30" y="430" width="315" height="173" rx="6" fill="#cfcfcf" stroke="none" stroke-width="1"/>
+<path d="M30 480 V436 a6 6 0 0 1 6 -6 H339 a6 6 0 0 1 6 6 V480 Z" fill="#bdbdbd"/>
+<text x="187.5" y="461" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#333333" text-anchor="middle">UTILIZADORES</text>
+<circle cx="187.5" cy="542.0" r="40.0" fill="none" stroke="#8a8a8a" stroke-width="2"/>
+<line x1="163.5" y1="518.0" x2="211.5" y2="566.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<line x1="211.5" y1="518.0" x2="163.5" y2="566.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<rect x="30" y="619" width="315" height="173" rx="6" fill="#cfcfcf" stroke="none" stroke-width="1"/>
+<path d="M30 669 V625 a6 6 0 0 1 6 -6 H339 a6 6 0 0 1 6 6 V669 Z" fill="#bdbdbd"/>
+<text x="187.5" y="650" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#333333" text-anchor="middle">ANIMAIS</text>
+<circle cx="187.5" cy="731.0" r="40.0" fill="none" stroke="#8a8a8a" stroke-width="2"/>
+<line x1="163.5" y1="707.0" x2="211.5" y2="755.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<line x1="211.5" y1="707.0" x2="163.5" y2="755.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<rect x="30" y="825" width="315" height="173" rx="6" fill="#cfcfcf" stroke="none" stroke-width="1"/>
+<path d="M30 875 V831 a6 6 0 0 1 6 -6 H339 a6 6 0 0 1 6 6 V875 Z" fill="#bdbdbd"/>
+<text x="187.5" y="856" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#333333" text-anchor="middle">QUIZZES</text>
+<circle cx="187.5" cy="937.0" r="40.0" fill="none" stroke="#8a8a8a" stroke-width="2"/>
+<line x1="163.5" y1="913.0" x2="211.5" y2="961.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<line x1="211.5" y1="913.0" x2="163.5" y2="961.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<rect x="30" y="1014" width="315" height="173" rx="6" fill="#cfcfcf" stroke="none" stroke-width="1"/>
+<path d="M30 1064 V1020 a6 6 0 0 1 6 -6 H339 a6 6 0 0 1 6 6 V1064 Z" fill="#bdbdbd"/>
+<text x="187.5" y="1045" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#333333" text-anchor="middle">QUESTÕES</text>
+<circle cx="187.5" cy="1126.0" r="40.0" fill="none" stroke="#8a8a8a" stroke-width="2"/>
+<line x1="163.5" y1="1102.0" x2="211.5" y2="1150.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<line x1="211.5" y1="1102.0" x2="163.5" y2="1150.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<rect x="30" y="1220" width="315" height="173" rx="6" fill="#cfcfcf" stroke="none" stroke-width="1"/>
+<path d="M30 1270 V1226 a6 6 0 0 1 6 -6 H339 a6 6 0 0 1 6 6 V1270 Z" fill="#bdbdbd"/>
+<text x="187.5" y="1251" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#333333" text-anchor="middle">PATROCINADORES</text>
+<circle cx="187.5" cy="1332.0" r="40.0" fill="none" stroke="#8a8a8a" stroke-width="2"/>
+<line x1="163.5" y1="1308.0" x2="211.5" y2="1356.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<line x1="211.5" y1="1308.0" x2="163.5" y2="1356.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<rect x="27" y="1217" width="321" height="179" rx="8" fill="none" stroke="#555" stroke-width="1.5" stroke-dasharray="6 4"/>
+<rect x="297" y="1208" width="44" height="20" rx="10" fill="#fff" stroke="#555" stroke-width="1"/>
+<text x="319" y="1223" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#555" text-anchor="middle">novo</text>
+<rect x="30" y="1409" width="315" height="173" rx="6" fill="#cfcfcf" stroke="none" stroke-width="1"/>
+<path d="M30 1459 V1415 a6 6 0 0 1 6 -6 H339 a6 6 0 0 1 6 6 V1459 Z" fill="#bdbdbd"/>
+<text x="187.5" y="1440" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#333333" text-anchor="middle">ESPECIALISTAS</text>
+<circle cx="187.5" cy="1521.0" r="40.0" fill="none" stroke="#8a8a8a" stroke-width="2"/>
+<line x1="163.5" y1="1497.0" x2="211.5" y2="1545.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<line x1="211.5" y1="1497.0" x2="163.5" y2="1545.0" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round"/>
+<rect x="27" y="1406" width="321" height="179" rx="8" fill="none" stroke="#555" stroke-width="1.5" stroke-dasharray="6 4"/>
+<rect x="297" y="1397" width="44" height="20" rx="10" fill="#fff" stroke="#555" stroke-width="1"/>
+<text x="319" y="1412" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#555" text-anchor="middle">novo</text>
+</svg></g></svg>
